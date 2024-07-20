@@ -1,87 +1,79 @@
 # Simon Says FlashCard Game
 
-This is a simple Simon Says FlashCard Game built using HTML, CSS, and JavaScript.
+This is a simple Simon Says game built using HTML, CSS, and JavaScript. The game will test your memory by generating sequences of colors that you need to replicate.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Feedback](#feedback)
 - [License](#license)
-- [Contact](#contact)
 
-## Introduction
+## Demo
 
-The Simon Says FlashCard Game is a memory game where players must remember and reproduce a sequence of colors. The game starts when any key is pressed, and with each level, a new color is added to the sequence. The player must click the colors in the correct order to progress to the next level. If the player makes a mistake, the game ends, displaying the final score.
+You can play the game [here](https://kirti095.github.io/simon-says-flashcard-game).
+
 
 ## Features
 
-- Interactive UI with colored buttons
-- Level progression system
-- Game over notification with score display
-- High score tracking for the current session
+- Interactive gameplay
+- Tracks and displays your current level
+- Provides feedback on correct and incorrect sequences
+- Displays high score
 
 ## Installation
 
 1. Clone the repository:
-
     ```bash
     git clone https://github.com/kirti095/simon-says-flashcard-game.git
     ```
 
 2. Navigate to the project directory:
-
     ```bash
     cd simon-says-flashcard-game
     ```
 
-3. Open `index.html` in your web browser to play the game.
+3. Open `index.html` in your preferred web browser.
 
 ## Usage
 
-- Open the `index.html` file in a web browser.
 - Press any key to start the game.
-- Follow the color sequence by clicking the buttons in the correct order.
-- Progress through levels by remembering the increasing sequences.
-- The game ends if a mistake is made, displaying the final score and high score.
+- Follow the sequence of flashes and click on the buttons in the correct order.
+- The game will display your current level and notify you if you make a mistake.
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+Contributions are welcome! Please follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch:
-
+2. Clone your forked repository:
     ```bash
-    git checkout -b feature/your-feature-name
+    git clone https://github.com/kirti095/simon-says-flashcard-game.git
     ```
-
-3. Make your changes.
-4. Commit your changes:
-
+3. Create a new branch for your changes (optional but recommended):
     ```bash
-    git commit -m 'Add some feature'
+    git checkout -b your-branch-name
     ```
-
-5. Push to the branch:
-
+4. Make your changes.
+5. Commit your changes:
     ```bash
-    git push origin feature/your-feature-name
+    git commit -m 'Description of your changes'
     ```
+6. Push your changes to your forked repository:
+    ```bash
+    git push origin your-branch-name
+    ```
+7. Open a pull request.
+If you’re not using branches, you can push your changes directly to your main repository after committing them.
 
-6. Open a pull request.
+## Feedback
+
+If you have any feedback, please feel free to reach out by creating an issue in the repository or contacting me directly via [kirtisolanki140@gmail.com].
+
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have any questions or feedback, please contact me at my Email :- kirtisolanki140@gmail.com
-
-
----
-
-Thank you for checking out my Simon Says FlashCard Game! Enjoy playing and feel free to contribute!
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
