@@ -14,7 +14,7 @@ This is a simple Simon Says game built using HTML, CSS, and JavaScript. The game
 
 ## Demo
 
-You can play the game [here](https://kirti095.github.io/simon-says-flashcard-game).
+You can play the game [here](https://kirti095/simon-says-flashcard-game).
 
 
 ## Features
